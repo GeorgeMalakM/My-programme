@@ -1,2 +1,3 @@
-# I am a student in faculty of computers and AI Cairo .
-
+# HI 
+# I am George Malak Magdy 
+# Student at FCAI Cairo
